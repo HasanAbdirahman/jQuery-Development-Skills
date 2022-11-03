@@ -1,0 +1,32 @@
+body {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main {
+  margin-top: 100px;
+}
+header {
+  color: white;
+  width: 343px;
+}
+h3 {
+  background-color: hsl(120, 43%, 66%);
+  padding: 5px;
+  text-align: center;
+}
+#items {
+  color: black;
+}
+input {
+  width: 220px;
+  padding: 8px;
+  border: 2px solid hsl(120, 55%, 24%);
+}
+button {
+  padding: 8px 10px 8px 8px;
+  margin-left: 10px;
+  color: green;
+  border: 2px solid green;
+}
